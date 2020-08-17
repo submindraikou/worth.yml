@@ -1,3 +1,69 @@
+# The prices in here are designed to make sure crafting keeps the same monetary value.
+# i.e. Campfires are worth the same amount as 3 Logs + 3 Sticks + 1 Coal.
+
+# Modifiers:
+# Smelting -> 30% Value increase.
+
 worth:
   
   # Ores
+
+  # Coal
+  coalore: 10.5
+  coal: 15
+  coalblock: 135
+  
+  # Iron
+  ironore: 31.5
+  ironingot: 45
+  ironblock: 405
+  ironnugget: 5
+  irondoor: 90
+  irontrapdoor: 180
+  heavyweightedpressureplate: 90
+  ironfence: 16.87
+  ironhorsearmor: 405
+  ironsword: 91
+  ironpickaxe: 138
+  ironaxe: 138
+  ironshovel: 47
+  ironhoe: 92
+  ironhelmet: 225
+  ironchestplate: 360
+  ironleggings: 315
+  ironboots: 180
+  
+  # Gold
+  goldore: 126
+  nethergoldore: 126
+  gildedblackstone: 126
+  goldingot: 180
+  goldblock: 1620
+  goldnugget: 20
+  lightweightedpressureplate: 360
+  goldhorsearmor: 1620
+  goldsword: 361
+  goldpickaxe: 542
+  goldaxe: 542
+  goldshovel: 182
+  goldhoe: 362
+  goldhelmet: 900
+  goldchestplate: 1440
+  goldleggings: 1260
+  goldboots: 720
+  goldenapple: 1460
+  enchantedgoldenapple: 12980
+  goldencarrot: 160
+  
+  # Lapis
+  lapisore: 245
+  lapislazuli: 35
+  lapisblock: 315
+  
+  # Emeralds
+  # Keeping as unsellable since it causes a lot of problems with villager trades...
+  # emeraldore: 140
+  # emerald: 200
+  # emeraldblock: 1800
+  
+  
