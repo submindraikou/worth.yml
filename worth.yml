@@ -110,7 +110,7 @@ worth:
   smoothquartzslab: 156
   
   # Redstone
-  redstone: 
-  redstoneore: 
-  redstoneblock: 
+  redstoneore: 180
+  redstone: 35
+  redstoneblock: 315
   # TODO: Add everything that interacts with redstone (i.e. hoppers, dispensers, rails, etc.)
