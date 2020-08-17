@@ -60,10 +60,57 @@ worth:
   lapislazuli: 35
   lapisblock: 315
   
-  # Emeralds
+  # Emerald
   # Keeping as unsellable since it causes a lot of problems with villager trades...
   # emeraldore: 140
   # emerald: 200
   # emeraldblock: 1800
   
+  # Diamond
+  diamondore: 280
+  diamond: 400
+  diamondblock: 3600
+  diamondhorsearmor: 3600
+  diamondsword: 801
+  diamondpickaxe: 1202
+  diamondaxe: 1202
+  diamondshovel: 401
+  diamondhoe: 802
+  diamondhelmet: 2000
+  diamondchestplate: 3200
+  diamondleggings: 2800
+  diamondboots: 1600
   
+  # Netherite
+  ancientdebris: 280
+  netheritescrap: 400
+  netheriteingot: 2320
+  netheriteblock: 20880
+  netheritesword: 3121
+  netheritepickaxe: 3522
+  netheriteaxe: 3522
+  netheriteshovel: 2721
+  netheritehoe: 3122
+  netheritehelmet: 4320
+  netheritechestplate: 5520
+  netheriteleggings: 5120
+  netheriteboots: 3920
+  
+  # Quartz
+  netherquartzore: 28
+  quartz: 40
+  quartzblock: 120
+  quartzstairs: 120
+  quartzslab: 60
+  chiseledquartz: 120
+  quartzpillar: 120
+  quartzbricks: 120
+  smoothquartzblock: 156
+  smoothquartzstairs: 156
+  smoothquartzslab: 156
+  
+  # Redstone
+  redstone: 
+  redstoneore: 
+  redstoneblock: 
+  # TODO: Add everything that interacts with redstone (i.e. hoppers, dispensers, rails, etc.)
