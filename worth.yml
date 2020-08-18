@@ -6,8 +6,10 @@
 
 worth:
   
+  # *******************************************************************************
   # Ores
-
+  # *******************************************************************************
+  
   # Coal
   coalore: 10.5
   coal: 15
@@ -114,3 +116,155 @@ worth:
   redstone: 35
   redstoneblock: 315
   # TODO: Add everything that interacts with redstone (i.e. hoppers, dispensers, rails, etc.)
+  
+  # *******************************************************************************
+  # Wood
+  # *******************************************************************************
+  
+  # General
+  woodensword: 9
+  woodenpickaxe: 14
+  woodenaxe: 14
+  woodenshovel: 6
+  woodenhoe: 10
+  craftingtable: 16
+  
+  # Oak
+  oakplanks: 4
+  oaklog: 16
+  strippedoaklog: 16
+  oakwood: 21.3
+  strippedoakwood: 21.3
+  oaksapling: 1
+  oakleaves: 1
+  oakslab: 2
+  oakstairs: 4
+  oakpressureplate: 8
+  oakfence: 6
+  oakgate: 12
+  oakbutton: 4
+  oakdoor: 8
+  oaksign: 8.3
+  oakboat: 20
+  
+  # Spruce
+  spruceplanks: 4
+  sprucelog: 16
+  strippedsprucelog: 16
+  sprucewood: 21.3
+  strippedsprucewood: 21.3
+  sprucesapling: 1
+  spruceleaves: 1
+  spruceslab: 2
+  sprucestairs: 4
+  sprucepressureplate: 8
+  sprucefence: 6
+  sprucegate: 12
+  sprucebutton: 4
+  sprucedoor: 8
+  sprucesign: 8.3
+  spruceboat: 20
+  
+  # Birch
+  birchplanks: 4
+  birchlog: 16
+  strippedbirchlog: 16
+  birchwood: 21.3
+  strippedbirchwood: 21.3
+  birchsapling: 1
+  birchleaves: 1
+  birchslab: 2
+  birchstairs: 4
+  birchpressureplate: 8
+  birchfence: 6
+  birchgate: 12
+  birchbutton: 4
+  birchdoor: 8
+  birchsign: 8.3
+  birchboat: 20
+  
+  # Jungle
+  jungleplanks: 4
+  junglelog: 16
+  strippedjunglelog: 16
+  junglewood: 21.3
+  strippedjunglewood: 21.3
+  junglesapling: 1
+  jungleleaves: 1
+  jungleslab: 2
+  junglestairs: 4
+  junglepressureplate: 8
+  junglefence: 6
+  junglegate: 12
+  junglebutton: 4
+  jungledoor: 8
+  junglesign: 8.3
+  jungleboat: 20
+  
+  # Acacia
+  acaciaplanks: 4
+  acacialog: 16
+  strippedacacialog: 16
+  acaciawood: 21.3
+  strippedacaciawood: 21.3
+  acaciasapling: 1
+  acacialeaves: 1
+  acaciaslab: 2
+  acaciastairs: 4
+  acaciapressureplate: 8
+  acaciafence: 6
+  acaciagate: 12
+  acaciabutton: 4
+  acaciadoor: 8
+  acaciasign: 8.3
+  acaciaboat: 20
+  
+  # Dark Oak
+  darkoakplanks: 4
+  darkoaklog: 16
+  strippeddarkoaklog: 16
+  darkoakwood: 21.3
+  strippeddarkoakwood: 21.3
+  darkoaksapling: 1
+  darkoakleaves: 1
+  darkoakslab: 2
+  darkoakstairs: 4
+  darkoakpressureplate: 8
+  darkoakfence: 6
+  darkoakgate: 12
+  darkoakbutton: 4
+  darkoakdoor: 8
+  darkoaksign: 8.3
+  darkoakboat: 20
+  
+  # Crimson
+  crimsonplanks: 4
+  crimsonlog: 16
+  strippedcrimsonlog: 16
+  crimsonhyphae: 21.3
+  strippedcrimsonhyphae: 21.3
+  crimsonslab: 2
+  crimsonstairs: 4
+  crimsonpressureplate: 8
+  crimsonfence: 6
+  crimsongate: 12
+  crimsonbutton: 4
+  crimsondoor: 8
+  crimsonsign: 8.3
+  crimsonboat: 20
+  
+  # Warped
+  warpedplanks: 4
+  warpedlog: 16
+  strippedwarpedlog: 16
+  warpedhyphae: 21.3
+  strippedwarpedhyphae: 21.3
+  warpedslab: 2
+  warpedstairs: 4
+  warpedpressureplate: 8
+  warpedfence: 6
+  warpedgate: 12
+  warpedbutton: 4
+  warpeddoor: 8
+  warpedsign: 8.3
+  warpedboat: 20
